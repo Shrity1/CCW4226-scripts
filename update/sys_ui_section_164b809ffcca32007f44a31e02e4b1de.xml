@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="9fae97f55f823200637c8f72ff46660c" sys_domain="global" table="x_ccw4226_scripts_scripts" version="3" view="">
+    <sys_ui_section caption="" section_id="164b809ffcca32007f44a31e02e4b1de" sys_domain="global" table="x_ccw4226_scripts_scripts" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-11 18:50:31</sys_created_on>
-            <sys_id>9bae97f55f823200637c8f72ff46660f</sys_id>
+            <sys_created_on>2017-04-15 19:26:20</sys_created_on>
+            <sys_id>3e3d44dffcca32007f44a31e02e4b18c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ccw4226_scripts_scripts" sys_domain="global" view="Default view">9fae97f55f823200637c8f72ff46660c</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_ccw4226_scripts_scripts" sys_domain="global" view="Default view">164b809ffcca32007f44a31e02e4b1de</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-11 18:50:31</sys_updated_on>
+            <sys_updated_on>2017-04-15 19:26:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-11 18:50:31</sys_created_on>
-            <sys_id>d3ae97f55f823200637c8f72ff466610</sys_id>
+            <sys_created_on>2017-04-15 19:26:20</sys_created_on>
+            <sys_id>be3d44dffcca32007f44a31e02e4b18c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ccw4226_scripts_scripts" sys_domain="global" view="Default view">9fae97f55f823200637c8f72ff46660c</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_ccw4226_scripts_scripts" sys_domain="global" view="Default view">164b809ffcca32007f44a31e02e4b1de</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-11 18:50:31</sys_updated_on>
+            <sys_updated_on>2017-04-15 19:26:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>script</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-11 18:50:31</sys_created_on>
-            <sys_id>57ae97f55f823200637c8f72ff466610</sys_id>
+            <sys_created_on>2017-04-15 19:26:20</sys_created_on>
+            <sys_id>323d44dffcca32007f44a31e02e4b18d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ccw4226_scripts_scripts" sys_domain="global" view="Default view">9fae97f55f823200637c8f72ff46660c</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_ccw4226_scripts_scripts" sys_domain="global" view="Default view">164b809ffcca32007f44a31e02e4b1de</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-11 18:50:31</sys_updated_on>
+            <sys_updated_on>2017-04-15 19:26:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -50,11 +50,11 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-11 18:50:31</sys_created_on>
+            <sys_created_on>2017-04-15 19:17:50</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9fae97f55f823200637c8f72ff46660c</sys_id>
+            <sys_id>164b809ffcca32007f44a31e02e4b1de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_ccw4226_scripts_scripts</sys_name>
             <sys_overrides/>
@@ -62,9 +62,9 @@
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
-            <sys_update_name>sys_ui_section_9fae97f55f823200637c8f72ff46660c</sys_update_name>
+            <sys_update_name>sys_ui_section_164b809ffcca32007f44a31e02e4b1de</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-11 18:50:31</sys_updated_on>
+            <sys_updated_on>2017-04-15 19:17:50</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

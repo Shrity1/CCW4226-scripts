@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Source Control Lab">3a51d42367221200dfe55bb557415a4a</application>
+        <application display_value="Source Control Lab">da8a409ffcca32007f44a31e02e4b128</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,7 +12,7 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Scripts</mobile_title>
+        <mobile_title>scripts</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_ccw4226_scripts_scripts</name>
         <order/>
@@ -24,23 +24,23 @@
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-11 18:46:58</sys_created_on>
+        <sys_created_on>2017-04-15 19:14:34</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>d7dd5fb55f823200637c8f72ff4666fb</sys_id>
+        <sys_id>1e8a409ffcca32007f44a31e02e4b19a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Scripts</sys_name>
+        <sys_name>scripts</sys_name>
         <sys_overrides/>
         <sys_package display_value="CCW4226-scripts" source="x_ccw4226_scripts">178d9bb55f823200637c8f72ff466600</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
-        <sys_update_name>sys_app_module_d7dd5fb55f823200637c8f72ff4666fb</sys_update_name>
+        <sys_update_name>sys_app_module_1e8a409ffcca32007f44a31e02e4b19a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-11 18:46:58</sys_updated_on>
+        <sys_updated_on>2017-04-15 19:14:34</sys_updated_on>
         <timeline_page/>
-        <title>Scripts</title>
+        <title>scripts</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>script</column_label>
+        <column_label>Script</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -33,7 +33,7 @@
         <foreign_database/>
         <internal_type display_value="Script">script</internal_type>
         <mandatory>false</mandatory>
-        <max_length>8000</max_length>
+        <max_length>200</max_length>
         <name>x_ccw4226_scripts_scripts</name>
         <next_element/>
         <primary>false</primary>
@@ -51,18 +51,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-11 18:50:09</sys_created_on>
+        <sys_created_on>2017-04-15 19:18:45</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>f36ed3f55f823200637c8f72ff466663</sys_id>
+        <sys_id>a56b089ffcca32007f44a31e02e4b15b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>script</sys_name>
+        <sys_name>Script</sys_name>
         <sys_package display_value="CCW4226-scripts" source="x_ccw4226_scripts">178d9bb55f823200637c8f72ff466600</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
         <sys_update_name>sys_dictionary_x_ccw4226_scripts_scripts_script</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-11 18:50:09</sys_updated_on>
+        <sys_updated_on>2017-04-15 19:18:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

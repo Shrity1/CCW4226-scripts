@@ -2,29 +2,29 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Source Control Lab">fa51d42367221200dfe55bb557415a4b</application>
+        <application display_value="Source Control Lab">d28a409ffcca32007f44a31e02e4b19d</application>
         <filter/>
-        <name>Scripts</name>
+        <name>scripts</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
         <roles>x_ccw4226_scripts.scripts_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-11 18:46:58</sys_created_on>
+        <sys_created_on>2017-04-15 19:14:34</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>17dd5fb55f823200637c8f72ff4666fe</sys_id>
+        <sys_id>9e8a409ffcca32007f44a31e02e4b19e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Scripts</sys_name>
+        <sys_name>scripts</sys_name>
         <sys_package display_value="CCW4226-scripts" source="x_ccw4226_scripts">178d9bb55f823200637c8f72ff466600</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
-        <sys_update_name>sys_ui_module_17dd5fb55f823200637c8f72ff4666fe</sys_update_name>
+        <sys_update_name>sys_ui_module_9e8a409ffcca32007f44a31e02e4b19e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-11 18:46:58</sys_updated_on>
+        <sys_updated_on>2017-04-15 19:14:34</sys_updated_on>
         <table>x_ccw4226_scripts_scripts</table>
         <uncancelable>false</uncancelable>
         <view_name/>

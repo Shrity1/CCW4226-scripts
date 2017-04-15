@@ -6,16 +6,16 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name/>
+        <name>Source Control Lab</name>
         <order>100</order>
-        <roles/>
+        <roles>x_ccw4226_scripts.scripts_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-11 18:51:39</sys_created_on>
+        <sys_created_on>2017-04-15 19:14:34</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>deded7f55f823200637c8f72ff466637</sys_id>
+        <sys_id>da8a409ffcca32007f44a31e02e4b128</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Source Control Lab</sys_name>
         <sys_overrides/>
@@ -23,9 +23,9 @@
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
-        <sys_update_name>sys_app_application_deded7f55f823200637c8f72ff466637</sys_update_name>
+        <sys_update_name>sys_app_application_da8a409ffcca32007f44a31e02e4b128</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-11 18:51:39</sys_updated_on>
+        <sys_updated_on>2017-04-15 19:14:34</sys_updated_on>
         <title>Source Control Lab</title>
         <view_name/>
     </sys_app_application>

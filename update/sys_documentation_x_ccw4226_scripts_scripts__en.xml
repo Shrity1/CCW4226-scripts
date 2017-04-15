@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Scripts" language="en" table="x_ccw4226_scripts_scripts">
+    <sys_documentation element="" label="scripts" language="en" table="x_ccw4226_scripts_scripts">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Scripts</label>
+            <label>scripts</label>
             <language>en</language>
             <name>x_ccw4226_scripts_scripts</name>
-            <plural>Scripts</plural>
+            <plural>scripts</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-11 18:46:58</sys_created_on>
+            <sys_created_on>2017-04-15 19:14:35</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
-            <sys_id>93dd9fb55f823200637c8f72ff46661e</sys_id>
+            <sys_id>768a409ffcca32007f44a31e02e4b1bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Scripts</sys_name>
+            <sys_name>scripts</sys_name>
             <sys_package display_value="CCW4226-scripts" source="x_ccw4226_scripts">178d9bb55f823200637c8f72ff466600</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
             <sys_update_name>sys_documentation_x_ccw4226_scripts_scripts__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-11 18:46:58</sys_updated_on>
+            <sys_updated_on>2017-04-15 19:14:35</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -33,7 +33,7 @@
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>100</max_length>
+        <max_length>200</max_length>
         <name>x_ccw4226_scripts_scripts</name>
         <next_element/>
         <primary>false</primary>
@@ -51,9 +51,9 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-11 18:48:28</sys_created_on>
+        <sys_created_on>2017-04-15 19:19:58</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>a0fddfb55f823200637c8f72ff4666ab</sys_id>
+        <sys_id>f0bb089ffcca32007f44a31e02e4b1fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
         <sys_package display_value="CCW4226-scripts" source="x_ccw4226_scripts">178d9bb55f823200637c8f72ff466600</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="CCW4226-scripts">178d9bb55f823200637c8f72ff466600</sys_scope>
         <sys_update_name>sys_dictionary_x_ccw4226_scripts_scripts_description</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-11 18:48:28</sys_updated_on>
+        <sys_updated_on>2017-04-15 19:19:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
